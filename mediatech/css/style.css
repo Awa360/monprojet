@@ -1,0 +1,58 @@
+
+body{
+	background-color: white;
+	padding: 0;
+	margin: 0;
+}
+nav{
+	background-color: indigo;
+	width: 100%;
+	padding: 15px;
+	height: 70px; 
+}
+#logo{
+	float: left;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: cyan; 
+	line-height: 50px;
+}
+.menu{
+	float: right;
+	position: absolute;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+.menu li {
+	display: inline-block;
+	color: black;
+	margin-left: 10px;
+}
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-right: 15px;
+	color: cyan;
+	width: 10px;
+	text-align: center;
+
+}
+
+.vidéo{
+
+}
+.form-inline my-2 my-lg-0{
+	float: right;
+}
+
+
+.inscription{
+	margin-right: 100px;
+}
+body{
+	background-image: url(../img/belle.jpeg);
+}
+.formulaire{
+	align-content: center;
+}
